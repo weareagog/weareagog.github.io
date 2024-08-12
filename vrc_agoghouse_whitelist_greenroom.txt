@@ -12,3 +12,5 @@ jaredmonkey
 lizrosenthal
 michelreilhac
 Loren Hammonds
+cpaustin2000
+digitallywired 
