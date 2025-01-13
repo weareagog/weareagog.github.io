@@ -9,3 +9,4 @@ MamboSpectre 44c0
 MamboSpectre
 MackenzieRo
 Fraco32
+Hadean
