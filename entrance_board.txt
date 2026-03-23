@@ -1,7 +1,5 @@
 <b>Welcome to Agog House!</b>
-Home to a global community of creators, technologists, storytellers, and changemakers using XR to imagine and build a better future for all.
-Agog House hosts monthly talks, workshops, and meetups that spark insight, connection, and collaboration across the XR-for-impact ecosystem. We also invite our community to host events here—please reach out if you’re interested.
-Explore the space, connect with others, and stay involved by joining our Discord, mailing list, and VRChat Group: We Are Agog.
+Home to a global community of creators, technologists, storytellers, and changemakers using XR to imagine and build a better future for all. Agog House hosts monthly talks, workshops, and meetups that spark insight, connection, and collaboration across the XR-for-impact ecosystem. We also invite our community to host events here—please reach out if you’re interested. Explore the space, connect with others, and stay involved by joining our Discord, mailing list, and VRChat Group: We Are Agog.
 
 <b>About Agog:</b>
 Agog is a philanthropic organization that brings together social-change agents, thinkers, and builders to pioneer new ways of learning, inspiring, and collaborating through immersive technologies.
