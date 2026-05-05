@@ -25,5 +25,4 @@ Mary - Agog
 alex_agog
 Alex - Agog
 ////temp////
-KateVoet
-Victor Maes
+
