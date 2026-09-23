@@ -21,6 +21,5 @@ Mary - Agog
 alex_agog
 Alex - Agog
 ////temp////
-lizrosenthal
-MetaRick
-michelreilhac
+
+
